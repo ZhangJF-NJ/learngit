@@ -8,3 +8,5 @@ Checkout TEST！
 
 Creating a new branch is quick and simple.
 
+Dev test Fast Forward.
+
