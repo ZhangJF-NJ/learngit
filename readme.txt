@@ -11,3 +11,4 @@ Creating a new branch is quick and simple.
 Dev test Fast Forward.
 
 1.GitHub 远端修改测试
+2.测试Origin2
