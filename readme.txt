@@ -12,3 +12,4 @@ Dev test Fast Forward.
 
 1.GitHub 远端修改测试
 2.测试Origin2
+3.Pycharm 提交 github测试
